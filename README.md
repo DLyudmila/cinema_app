@@ -1,6 +1,6 @@
 # Cinema project
 <br/>**Project description:**
-<br/> A simple web application, which ahs been written using Spring technologies, that supports authentication, authorization, and CRUD operations(see project's features).
+<br/> A simple web application, which has been written using Spring technologies, that supports authentication, authorization, and CRUD operations(see project's features). 
 <br/>
 <br/>**Features:**
 <br/>:arrow_forward: Authentication, authorization and creating of new users;
@@ -37,6 +37,7 @@
 <br/>- Hibernate;
 <br/>- Spring Core;
 <br/>- Spring MVC;
+<br/>- Maven;
 <br/>- Spring Security.
 <br/>:eyes: **How to run the project:**
 - You will need an installed environment to run Java code;
